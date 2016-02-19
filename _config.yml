@@ -7,7 +7,7 @@
 
 # Site settings
 title: '@hsuanyukuo'
-email: hsuanyukuo63@gmial.com
+highlighter: pygments
 description: > # this means to ignore newlines until "baseurl:"
 url: "http://hykuo.net" # the base hostname & protocol for your site
 github_username:  hy-kuo
